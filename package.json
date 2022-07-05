@@ -1,0 +1,10 @@
+{
+  "name": "generators-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": "https://github.com/studyoutube/generatos-javascript.git",
+  "author": "studyoutube <repostudyoutube@outlook.com>",
+  "license": "MIT"
+}
